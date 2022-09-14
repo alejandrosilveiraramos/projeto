@@ -1,4 +1,4 @@
-#import exercicio01
+import exercicio01
 import exercicio02
 import exercicio03
 import exercicio04
@@ -15,7 +15,7 @@ while i != "não":
     escolha = int(input(" \n - Escolha qual exercício você deseja executar: exercicio0"))
 
     if escolha == 1:
-        print(escolha)
+        exercicio01.parImpar()
     elif escolha == 2:
         exercicio02.felizDiaDoProgramador()
     elif escolha == 3:
