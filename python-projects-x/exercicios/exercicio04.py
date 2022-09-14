@@ -31,8 +31,8 @@ def somaMenorMaiorDiferenteDez():
 
     # Estrutura de repetição
 
-    for c in range(0, 3):
-        numero = int(input('Digite um número: '))
+    for n in range(1, 4):
+        numero = int(input('Digite o {}º número: '.format(n)))
         soma += numero
 
     # Função Impressão Somas
@@ -55,3 +55,4 @@ def somaMenorMaiorDiferenteDez():
 
     # Impressão Rodapé
     print(decoracao, "RODAPÉ", decoracao)
+somaMenorMaiorDiferenteDez()

@@ -20,49 +20,37 @@ Crie uma estrutura de condição falando se a soma desses números é maior que 
 Crie uma função de impressão usando interpolação e aplique a variável de polimorfismo antes e depois da string utilize como rodapé, definindo o fim da estrutura de decisão.
 '''
 
-# Variaveis
-
-num = 0
-poli = '=' * 10
+# Variáveis
 soma = 0
 
-# Impressao Cabeçalho
+ # Impressão Cabeçalho
+decoracao = "="*20
 
-print(f'{poli} CABEÇALHO {poli}\n')
-
+# Função de Impressão
+print(decoracao, "CABEÇALHO", decoracao)
 # Estrutura de repetição
 
-for c in range(0, 3):
-    numero = int(input('Digite um número: '))
-    soma += numero
+for n in range(1, 4):
+     numero = int(input('Digite o {}º número: '.format(n)))
+     soma += numero
 
-# Funçao Impressao Somas
+ # Função Impressão Somas
 
 print('A soma dos números digitados é {}'.format(soma))
+print(decoracao, "RODAPÉ", decoracao, "\n")
 
-
-print(f'{poli} RODAPE {poli}\n')
-
-# Impressao Cabeçalho
-
-print(f'{poli} CABEÇALHO {poli}\n')
+# Impressão Cabeçalho
+print(decoracao, "RESULTADO", decoracao)
 
 # Estrutura de Condição
-
-validador = True
-
-if soma  > 10:
-    print('Maior que dez: {}'.format(validador))
-
-if soma < 10:
-    print('Menor que dez: {}'.format(validador))
-
+if soma > 10:
+    print("Maior que Dez")
+elif soma < 10:
+     print("Menor que Dez")
 if soma == 10:
-    print('Igual que dez: {}'.format(validador))
+    print("Igual a Dez")
+else:
+    print("Diferente de Dez")
 
-if soma != 10:
-    print('Diferente que dez: {}'.format(validador))      
-
-# Impressao Rodape
-
-print(f'{poli} RODAPE {poli}\n')
+ # Impressão Rodapé
+print(decoracao, "RODAPÉ", decoracao)
