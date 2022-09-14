@@ -31,28 +31,30 @@ Ferramentas utilizadas
 
 * [Trello](https://trello.com/b/BvNi86AX/guidolooping) - Feramenta de organizaçâo
 * [CANVAS](https://www.canva.com/design/DAFMJp9Y2dI/egPWUWytIr0MWSqYgpAyUQ/edit) - Desenvolvimento da logo
-* [PREZI(https://prezi.com/) - Apresentação do projeto
+* [PREZI](https://prezi.com/) - Apresentação do projeto
+* [VSCODE)(https://code.visualstudio.com/) - IDE de desenvolvimento
 
 ## ✒️ Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Felipe Weiss** - *Exercicio01 - Exercicio04 - exercicio06* - [desenvolvedor](https://github.com/FelipeWeiss1992)
+* **Adriano Cézar ** - *Exercicio01 - Exercicio04 - exercicio06* - [desenvolvedor](https://github.com/adrianojimenes)
+* *Márcio Alberto ** - *Exercicio02 - Exercicio03 - exercicio05* - [desenvolvedor](https://github.com/marciolou)
+ *David Simas ** - *Exercicio02 - Exercicio03 - exercicio05* - [desenvolvedor](https://github.com/davidsimas)
+* **Maria Clara Vargas  ** - * Organizaçâo - Apresentação* - [Gestora](https://github.com/mcvargass)
+* **Alejandro Silveira Ramos  ** - * organização de equipe - definição de metas - repositório* - [Líder Técnico](https://github.com/alejandrosilveiraramos/)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+* **Adre Zuplae  ** - * Professor e orientador* - [Professor] (https://github.com/AndreVitorGranemann/AndrevitorGranemann)
+
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/alejandrosilveiraramos/projeto/blob/add-license-1/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
 
+* Equipe foi agíl e precisa.
+* Agradicimento ao orientador Andre Zuplae
 
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
