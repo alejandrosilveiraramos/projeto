@@ -1,11 +1,7 @@
-import exercicio01
-import exercicio02
-import exercicio03
-import exercicio04
-import exercicio05
-import exercicio06
+import exercicio01 , exercicio02, exercicio03, exercicio04, exercicio05, exercicio06
 
-# cabecalho
+
+#cabecalho
 decorativo = "*" * 10
 print(decorativo, " Bem vindo a lista de exercícios da GUIDOLOOPING ", decorativo)
 
@@ -28,6 +24,6 @@ while i != "não":
         exercicio06.contagemPulando()
     else:
         print(" - Esse numero não existe, tente novamente.")
-    i = str(input(" - Deseja escolher outra atividade? (sim) ou (não): \n"))
+    i = str(input(" - Deseja escolher outra atividade? (sim) ou (não):  "))
 print("\n", decorativo * 3, "Finalizado", decorativo * 3)
 
