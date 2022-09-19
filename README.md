@@ -30,8 +30,8 @@ python exemplo.py
 Ferramentas utilizadas
 
 * [Trello](https://trello.com/b/BvNi86AX/guidolooping) - Feramenta de organizaçâo
-* [CANVAS](https://www.canva.com/design/DAFMJp9Y2dI/egPWUWytIr0MWSqYgpAyUQ/edit) - Desenvolvimento da logo
-* [PREZI](https://prezi.com/) - Apresentação do projeto
+* [Canva](https://www.canva.com/design/DAFMJp9Y2dI/egPWUWytIr0MWSqYgpAyUQ/edit) - Desenvolvimento da logo
+* [Prezi](https://prezi.com/) - Apresentação do projeto
 * [VSCODE](https://code.visualstudio.com/) - IDE de desenvolvimento
 
 ## ✒️ Autores
@@ -45,7 +45,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Maria Clara Vargas** - * Organizaçâo - Apresentação* - [Gestora](https://github.com/mcvargass)
 * **Alejandro Silveira Ramos** - * organização de equipe - auxilio no codigo - repositório* - [Líder Técnico](https://github.com/alejandrosilveiraramos/)
 
-* **Adre Zuplae** - * Professor e orientador* - [Professor] (https://github.com/AndreVitorGranemann/AndrevitorGranemann)
+* **Andre Zuplae** - * Professor e orientador* - [Professor] (https://github.com/AndreVitorGranemann/AndrevitorGranemann)
 
 
 ## 📄 Licença
@@ -55,6 +55,6 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 ## 🎁 Expressões de gratidão
 
 
-* Equipe foi agíl e precisa.
-* Agradicimento ao orientador Andre Zuplae
+* Equipe foi ágil e precisa.
+* Agradecimento ao orientador Andre Zuplae.
 
