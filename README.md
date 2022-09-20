@@ -42,10 +42,10 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Adriano Cézar** - *Exercicio01 - Exercicio04 - exercicio06* - [desenvolvedor](https://github.com/adrianojimenes)
 * **Márcio Alberto** - *Exercicio02 - Exercicio03 - exercicio05* - [desenvolvedor](https://github.com/marciolou)
 * **David Simas** - *Exercicio02 - Exercicio03 - exercicio05* - [desenvolvedor](https://github.com/davidsimas)
-* **Maria Clara Vargas** - * Organizaçâo - Apresentação* - [Gestora](https://github.com/mcvargass)
-* **Alejandro Silveira Ramos** - * organização de equipe - auxilio no codigo - repositório* - [Líder Técnico](https://github.com/alejandrosilveiraramos/)
+* **Maria Clara Vargas** - *Organização - Apresentação* - [Gestora](https://github.com/mcvargass)
+* **Alejandro Silveira Ramos** - *Organização de equipe - Auxílio no código - Repositório* - [Líder Técnico](https://github.com/alejandrosilveiraramos/)
 
-* **Andre Zuplae** - * Professor e orientador* - [Professor] (https://github.com/AndreVitorGranemann/AndrevitorGranemann)
+* **Andre Zuplae** - * Professor e Orientador* - [Professor] (https://github.com/AndreVitorGranemann/AndrevitorGranemann)
 
 
 ## 📄 Licença
