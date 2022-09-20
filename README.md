@@ -45,7 +45,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Maria Clara Vargas** - *Organização - Apresentação* - [Gestora](https://github.com/mcvargass)
 * **Alejandro Silveira Ramos** - *Organização de equipe - Auxílio no código - Repositório* - [Líder Técnico](https://github.com/alejandrosilveiraramos/)
 
-* **Andre Zuplae** - * Professor e Orientador* - [Professor] (https://github.com/AndreVitorGranemann/AndrevitorGranemann)
+* **Andre Zuplae** - *Professor e Orientador* - [Professor] (https://github.com/AndreVitorGranemann/AndrevitorGranemann)
 
 
 ## 📄 Licença
