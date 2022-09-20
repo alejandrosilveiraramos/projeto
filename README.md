@@ -40,8 +40,8 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Felipe Weiss** - *Exercicio01 - Exercicio04 - exercicio06* - [desenvolvedor](https://github.com/FelipeWeiss1992)
 * **Adriano Cézar** - *Exercicio01 - Exercicio04 - exercicio06* - [desenvolvedor](https://github.com/adrianojimenes)
-* *Márcio Alberto** - *Exercicio02 - Exercicio03 - exercicio05* - [desenvolvedor](https://github.com/marciolou)
- *David Simas** - *Exercicio02 - Exercicio03 - exercicio05* - [desenvolvedor](https://github.com/davidsimas)
+* **Márcio Alberto** - *Exercicio02 - Exercicio03 - exercicio05* - [desenvolvedor](https://github.com/marciolou)
+ **David Simas** - *Exercicio02 - Exercicio03 - exercicio05* - [desenvolvedor](https://github.com/davidsimas)
 * **Maria Clara Vargas** - * Organizaçâo - Apresentação* - [Gestora](https://github.com/mcvargass)
 * **Alejandro Silveira Ramos** - * organização de equipe - auxilio no codigo - repositório* - [Líder Técnico](https://github.com/alejandrosilveiraramos/)
 
